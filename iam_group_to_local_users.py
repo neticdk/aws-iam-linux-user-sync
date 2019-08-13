@@ -2,7 +2,9 @@
 
 # Sync IAM and local users
 # Author: Kim Norgaard <kn@netic.dk>
-
+#
+# Copyright 2019 Netic A/S
+#
 # Description:
 #   * fetches public ssh keys for users in an IAM group
 #   * populates authorized_keys for each user
